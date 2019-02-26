@@ -1,0 +1,7 @@
+# build artifacts
+Gemfile.lock
+# /output/
+
+# Commons
+.vscode
+.DS_Store
